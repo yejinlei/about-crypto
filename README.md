@@ -1,4 +1,7 @@
 # about-crypto
+## 密码学一张图
+![](doc/有关安全和密码学.png)
+
 ## 密码学工具
 
 ![](doc/密码学工具.png)
@@ -32,3 +35,9 @@
 ![](doc/数字签名2.png)
 
 ## 伪随机数生成器
+
+## 参考资料
+1. [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography)
+2. [crypto101 book](https://www.crypto101.io/)
+3. [pynacl's doc - nacl python binding](https://pynacl.readthedocs.io/en/latest/public/)
+4. [pyopenssl's doc - openssl python binding](https://multani.info/projects/pyopenssl/doc/latex-conversion/)
